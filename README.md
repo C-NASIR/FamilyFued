@@ -1,2 +1,3 @@
-# the-chosen-project
-This is a C# project for University of Wisconsin Oshkosh students, this is a class assignment not a real project 
+# Family Fued Game 
+
+This game was a team project at UW-OSHKOSH, We have built this family fued style like game for a professor at the university to use for his class. 
